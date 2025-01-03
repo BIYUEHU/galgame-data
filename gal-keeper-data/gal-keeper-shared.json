@@ -667,9 +667,15 @@
         "Sex with Protagonist Only",
         "Has Window Transparency Setting"
       ],
-      "palyTimelines": [],
+      "palyTimelines": [
+        [
+          1735910350,
+          1735910361,
+          4000
+        ]
+      ],
       "expectedPlayHours": 60.7,
-      "lastPlay": 1735910154039,
+      "lastPlay": 1735910350786,
       "createDate": 1735808636332.0576,
       "releaseDate": 1548892800000,
       "rating": 8.57,
