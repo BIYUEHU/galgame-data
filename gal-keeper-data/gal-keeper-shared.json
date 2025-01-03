@@ -1,5 +1,5 @@
 {
-  "time": 1735901437046,
+  "time": 1735901442236,
   "data": [
     {
       "id": "a78c8d91-7aa8-4658-99b3-108fd8075ba3",
@@ -125,6 +125,75 @@
       "developer": "",
       "images": [],
       "links": []
+    },
+    {
+      "id": "5fc21a03-df53-4d49-9110-d33094209c2b",
+      "title": "Hirahira Hihiru",
+      "alias": [
+        "Hira Hira Hihiru",
+        "ヒラヒラヒヒル",
+        "Hira Hira Hihiru"
+      ],
+      "cover": "https://t.vndb.org/cv/43/82543.jpg",
+      "description": "[b]They're all perfectly normal human beings.[/b]\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\nThe world you are about to enter is one in which the dead come back to life.\n\nIt is a phenomena which has occurred since time immemorial. But these unlucky individuals do not return as the person they once were. They rise from the grave with depleted cognition, memory, and awareness. Their bodies, stripped of all regenerative abilities, slowly rot away.\n\nIn Japan, those with this affliction are known as \"hihiru.\" Though once revered as holy beings, over time they have come to be shunned and reviled by society. Eventually, however, their condition was recognized as a medical issue, and given the name Aerodema.\n\nNow, at the dawn of the Taishou Era, Dr. Katori Shuuhei is conducting field studies in an effort to improve living conditions and support systems for Aerodema patients. Given how slowly they have developed in Japan compared to other nations, it is an uphill battle he fights.\n\nIt is through the eyes of two men that this story will unfold: Chigusa Masamitsu, a young doctor assisting with these studies, and Tenma Takeo, a student to whom Aerodema has only been a distant problem until now. Watch how these men grapple with Aerodema as it twists itself into their lives...\n\n[Edited from [url=https://store.steampowered.com/app/2314820/]Steam[/url]]",
+      "tags": [
+        "Health Issues",
+        "Illness",
+        "Male Protagonist",
+        "Hospital",
+        "Protagonist with Voice Acting",
+        "Multiple Protagonists",
+        "Medical Doctor Protagonist",
+        "Discrimination",
+        "Adult Protagonist",
+        "Taishou Era",
+        "NVL",
+        "No Sexual Content",
+        "Protagonist with a Face",
+        "Few Choices",
+        "Read Text Marking",
+        "Romance",
+        "Floating Textbox",
+        "High School Student Protagonist",
+        "Protagonist with Glasses",
+        "Backlog Jump"
+      ],
+      "palyTimelines": [],
+      "expectedPlayHours": 12,
+      "lastPlay": 0,
+      "createDate": 1735901389522,
+      "releaseDate": 1700092800000,
+      "rating": 8.1,
+      "developer": "BA-KU",
+      "images": [
+        "https://t.vndb.org/sf/89/182689.jpg",
+        "https://t.vndb.org/sf/90/182690.jpg",
+        "https://t.vndb.org/sf/91/182691.jpg",
+        "https://t.vndb.org/sf/92/182692.jpg",
+        "https://t.vndb.org/sf/93/182693.jpg",
+        "https://t.vndb.org/sf/94/182694.jpg",
+        "https://t.vndb.org/sf/01/187601.jpg",
+        "https://t.vndb.org/sf/02/187602.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q124032247"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/411895-"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=130856"
+        },
+        {
+          "url": "https://www.igdb.com/games/hira-hira-hihiru",
+          "name": "igdb_game"
+        }
+      ],
+      "vndbId": "v38429"
     }
   ]
 }
